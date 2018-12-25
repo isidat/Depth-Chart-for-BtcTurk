@@ -13,7 +13,9 @@ BtcTurk doesn't provide a depth chart for its markets. With this script you can 
 # Note:
 The order data is collected from user interface, if there would be a change in user interface, then this script may not work. In such case feel free to to open an issue to me so that I can update it.
 
-# (Coin exchange sitesi) BtcTurk için Derinlik (emir defteri) grafiği
+# - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# (Coin exchange sitesi) BtcTurk için derinlik (emir defteri) grafiği
 
 BtcTurk'ün henüz marketleri için bir derinlik grafiği sunmuyor. Bu script ile ne kadar al ve sat emrinin bolduğunu görsel olarak görüntüleyebilirsiniz. Grafik her saniyede güncellenir. Tüm coin'ler için çalışır.
 
